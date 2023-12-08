@@ -1,9 +1,7 @@
 {
   "users": [
     {
-      "name": "Suresh Dasari",
-      "designation": "Team Leader",
-      "location": "Hyderabad"
+      "elemental_solutions": "true"
     },
     {
       "name": "Rohini Alavala",
