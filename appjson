@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Suresh Dasari",
+      "designation": "Team Leader",
+      "location": "Hyderabad"
+    },
+    {
+      "name": "Rohini Alavala",
+      "designation": "Agricultural Officer",
+      "location": "Guntur"
+    }
+  ]
+}
